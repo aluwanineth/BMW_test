@@ -1,0 +1,3 @@
+﻿2019-04-27 22:59:40,385 INFO [1] BMWCompetencyTest.Helpers.ProcessLog.logInfo - loading user data
+2019-04-27 22:59:46,416 INFO [1] BMWCompetencyTest.Helpers.ProcessLog.logInfo - Process completed
+2019-04-27 23:00:16,612 INFO [1] BMWCompetencyTest.Helpers.ProcessLog.logInfo - Saving user data
